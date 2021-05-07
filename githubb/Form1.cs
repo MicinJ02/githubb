@@ -19,7 +19,7 @@ namespace githubb
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ahoj");
+            MessageBox.Show("ahaoj");
         }
     }
 }
