@@ -24,7 +24,7 @@ namespace githubb
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Budiž zdráv cestovateli");
+            MessageBox.Show("Budiž zdráv cesstovateli");
         }
     }
 }
